@@ -1,2 +1,3 @@
-# Impressora
-Utilizando a estrutura de dado "Fila sem cabeça"
+# Impressora utilizando fila sem cabeça 
+
+Através da linguagem C, criei uma impressora utilizando a estrutura de dados Fila sem cabeça.
