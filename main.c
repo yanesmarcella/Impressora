@@ -23,7 +23,7 @@ void enfileirar(celula **in, celula **fi, int conteudo){
     }else{
         (*fi) -> prox = novo;
         *fi = novo;
-        printf("adicionado a fila de impressão\n\n");
+        printf("mais um documento adicionado a fila de impressão\n\n");
     }
 }
 
